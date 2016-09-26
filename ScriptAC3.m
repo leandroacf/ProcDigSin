@@ -68,4 +68,4 @@ snrfiltered = 10*log10(referencesignal_energy)-10*log10(newnoise_energy)
 
 %Difference between old and new SNR
 NewSNR = snrfiltered - snrunfiltered
-
+%JUST ADD COMMENT FOR GIT DIFF
