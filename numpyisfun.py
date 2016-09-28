@@ -5,3 +5,5 @@ print firstarray
 
 secondlove = np.array([0,0,0])
 print secondlove
+
+print 'in the novo computador so pra testar se rola o git aqui direitinho'
